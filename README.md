@@ -17,6 +17,9 @@ A simple and responsive **Image Slider** using **HTML, CSS, and JavaScript**. Th
 ## 📂 Project Structure
 Image-Slider/ │── index.html # Main HTML file │── style.css # Styling file │── script.js # JavaScript functionality │── images/ # Folder containing images │ ├── image1.jpg │ ├── image2.jpg │ ├── image3.jpg │ ├── image4.jpg │ ├── image5.jpg │── README.md # Project documentation
 
+## 🌐 Live Demo
+🔗 **[Click here to view the Image Slider](https://manasranjanbarik1010.github.io/Image-Slider/)**
+
 ## 🚀 How to Run the Project
 1. **Clone the repository**:
    ```sh
